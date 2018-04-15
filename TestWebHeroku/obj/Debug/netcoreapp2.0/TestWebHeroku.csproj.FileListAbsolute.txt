@@ -1,0 +1,10 @@
+E:\Sync\Projects\C#\TestWebHeroku\TestWebHeroku\bin\Debug\netcoreapp2.0\TestWebHeroku.deps.json
+E:\Sync\Projects\C#\TestWebHeroku\TestWebHeroku\bin\Debug\netcoreapp2.0\TestWebHeroku.runtimeconfig.json
+E:\Sync\Projects\C#\TestWebHeroku\TestWebHeroku\bin\Debug\netcoreapp2.0\TestWebHeroku.runtimeconfig.dev.json
+E:\Sync\Projects\C#\TestWebHeroku\TestWebHeroku\bin\Debug\netcoreapp2.0\TestWebHeroku.dll
+E:\Sync\Projects\C#\TestWebHeroku\TestWebHeroku\bin\Debug\netcoreapp2.0\TestWebHeroku.pdb
+E:\Sync\Projects\C#\TestWebHeroku\TestWebHeroku\obj\Debug\netcoreapp2.0\TestWebHeroku.csproj.CoreCompileInputs.cache
+E:\Sync\Projects\C#\TestWebHeroku\TestWebHeroku\obj\Debug\netcoreapp2.0\TestWebHeroku.AssemblyInfoInputs.cache
+E:\Sync\Projects\C#\TestWebHeroku\TestWebHeroku\obj\Debug\netcoreapp2.0\TestWebHeroku.AssemblyInfo.cs
+E:\Sync\Projects\C#\TestWebHeroku\TestWebHeroku\obj\Debug\netcoreapp2.0\TestWebHeroku.dll
+E:\Sync\Projects\C#\TestWebHeroku\TestWebHeroku\obj\Debug\netcoreapp2.0\TestWebHeroku.pdb
